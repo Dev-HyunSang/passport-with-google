@@ -1,5 +1,6 @@
 # passport-with-google
-- Google OAuth2와 Passport.js를 통해서 사용자 인증 및 세션 구현을 하는 프로젝트입니다.  
+- Google OAuth2와 Passport.js를 통해서 사용자 인증 및 세션 구현을 하는 프로젝트입니다.
+- 궁극적으로 OAuth2의 동작 원리 및 Passport.js의 동작 원리를 이해하고자 합니다.  
 
 ## 사용한 기술
 - **Programming Language:** JavaScript
